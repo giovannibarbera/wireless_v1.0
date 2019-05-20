@@ -7,9 +7,9 @@ This repository contains the design files for the first generation of wireless m
 
 [NeuView](./NeuView/) - Data acquisition software (live streaming)
 
-[PCB-DAQ](./PCB/FPGA_board/) - FPGA board gerber files
+[PCB-FPGA](./PCB/FPGA_board/) - FPGA board gerber files
 
-[PCB-DAQ](./PCB/CMOS_sensor_board/) - CMOS sensor board gerber files
+[PCB-CMOS](./PCB/CMOS_sensor_board/) - CMOS sensor board gerber files
 
 [STL-miniscope](./STL-miniscope/) - MiniScope mechanical design
 
