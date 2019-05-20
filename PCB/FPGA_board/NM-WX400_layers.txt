@@ -1,0 +1,4 @@
+1 - NM-WX400 - Top Copper.gbr
+2 - NM-WX400 - DGND Plane (Powerplane).gbr
+3 - NM-WX400 - VDD_3V3 Plane (Powerplane).gbr
+4 - NM-WX400 - Bottom Copper.gbr

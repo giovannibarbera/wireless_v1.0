@@ -1,0 +1,4 @@
+1 - NM-CAM - Top Copper.gbr
+2 - NM-CAM - DGND Plane (Powerplane).gbr
+3 - NM-CAM - VDD_3V3 Plane (Powerplane).gbr
+4 - NM-CAM - Bottom Copper.gbr
